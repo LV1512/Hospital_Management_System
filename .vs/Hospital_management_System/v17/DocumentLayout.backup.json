@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hospital_management_System (1)\\Hospital_management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|d:\\hospital_management_system (1)\\hospital_management_system\\hospital_management_system\\users\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|D:\\Hospital_management_System (1)\\Hospital_management_System\\hospital_management_system\\users\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|D:\\Hospital_management_System (1)\\Hospital_management_System\\hospital_management_system\\users\\appointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\appointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|D:\\Hospital_management_System (1)\\Hospital_management_System\\hospital_management_system\\users\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|D:\\Hospital_management_System (1)\\Hospital_management_System\\hospital_management_system\\users\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|D:\\Hospital_management_System (1)\\Hospital_management_System\\hospital_management_system\\users\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|D:\\Hospital_management_System (1)\\Hospital_management_System\\hospital_management_system\\users\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90F45B24-24FA-4B79-AD0D-B293B083AC24}|Hospital_management_System\\Hospital_management_System.csproj|solutionrelative:hospital_management_system\\users\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loginpage.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Loginpage.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\Loginpage.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Loginpage.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\Loginpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-19T05:43:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Home.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\Home.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Home.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T05:39:49.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Registration.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\Registration.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Registration.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T06:04:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forgotpassword.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Forgotpassword.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\Forgotpassword.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Forgotpassword.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\Forgotpassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T05:59:33.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Contact.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\Contact.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Contact.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T05:58:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Appointment.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\Appointment.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\Appointment.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\Appointment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T05:57:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\About.aspx",
+              "RelativeDocumentMoniker": "Hospital_management_System\\Users\\About.aspx",
+              "ToolTip": "D:\\Hospital_management_System (1)\\Hospital_management_System\\Hospital_management_System\\Users\\About.aspx",
+              "RelativeToolTip": "Hospital_management_System\\Users\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T19:13:34.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
